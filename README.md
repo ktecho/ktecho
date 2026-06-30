@@ -46,7 +46,7 @@ I ship production software across cloud infrastructure, DBaaS platforms, and dis
 ## Experience
 
 - **Lead Developer** @ WalletScrutiny.com — 2024–Present
-- **Senior Software Developer** @ Plebeian Market — 2022–2024
+- **Senior Software Engineer** @ Plebeian Market — 2022–2024
 - **Senior Software Engineer** @ LeanXcale — 2020–2022
 - **Founder** @ Ktecho Consulting — 2008–2019
 - **Team Leader / J2EE Developer** @ HP / Telefónica — 2006–2008
