@@ -17,6 +17,7 @@ I ship production software across cloud infrastructure, DBaaS platforms, and dis
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs&logoColor=339933)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-1f1f1f?style=flat-square&logo=sveltekit&logoColor=FF3E00)
 ![Laravel](https://img.shields.io/badge/Laravel-1f1f1f?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![J2EE](https://img.shields.io/badge/J2EE-1f1f1f?style=flat-square)
 ![JBoss](https://img.shields.io/badge/JBoss-1f1f1f?style=flat-square)
